@@ -1,1 +1,1 @@
-# Lab2_Java-App
+# Lab 2 Java App
